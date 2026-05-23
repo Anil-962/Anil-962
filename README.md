@@ -23,7 +23,7 @@ I'm a **passionate Data Science fresher** 🚀 from Bengaluru, India 🇮🇳, d
 - 📊 Skilled in creating **interactive dashboards** that drive business decisions
 - 🧠 Advocate for **data-driven insights** over assumptions
 - 🚀 On a mission to master the **complete data pipeline** (ETL → Analytics → Visualization)
-- 🎬 Creating content on **YouTube, Medium, and Instagram** to share my data journey
+- 🎬 Creating content on **YouTube and Instagram** to share my data journey
 - 💬 Always open to **collaborating** on exciting data projects!
 
 ---
@@ -64,7 +64,6 @@ I'm a **passionate Data Science fresher** 🚀 from Bengaluru, India 🇮🇳, d
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anil-kumar-g-r)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@AnilkumarGR-k6n)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anil-kumar-g-r)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itz_me_ani_anil)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anil-962)
 
@@ -72,18 +71,31 @@ I'm a **passionate Data Science fresher** 🚀 from Bengaluru, India 🇮🇳, d
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anil-962&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anil-962&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-### GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=Anil-962&theme=tokyonight&hide_border=true)
+</div>
 
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anil-962&layout=compact&theme=tokyonight&hide_border=true)
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Anil-962&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 📈 Top Languages
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anil-962&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
