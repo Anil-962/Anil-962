@@ -110,6 +110,15 @@ I'm a **passionate Data Science fresher** 🚀 from Bengaluru, India 🇮🇳, d
 </div>
 
 ---
+## 📊 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anil-962&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+
+</div>
+
+---
 
 ## 🤝 Let's Collaborate!
 
