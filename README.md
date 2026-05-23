@@ -3,19 +3,13 @@
 <!-- VISITOR COUNTER -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Anil-962&label=Profile%20Views&color=0e75b6&style=flat)
 
-<!-- ANIMATED HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=800&color=58A6FF&center=true&vCenter=true&width=435&lines=👋+Hey+there!+Welcome+to+my+profile!" alt="Wave greeting" />
+<!-- ANIMATED TYPING - Wave greeting (GitHub-safe: readme-typing-svg.herokuapp.com) -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=👋+Hey+there!+Welcome+to+my+profile!" alt="Wave greeting" />
 
-<h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
-  I'm Anil Kumar G R
-</h1>
+<h1>👋 I'm Anil Kumar G R</h1>
 
-<!-- ANIMATED TYPING ROLE -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=📊+Aspiring+Data+Scientist;🔍+Data+Analyst+%7C+BI+Developer;🐍+Python+%7C+SQL+%7C+Power+BI+Enthusiast;📈+Turning+Raw+Data+into+Real+Insights" alt="Typing SVG" />
-
-<br/>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif"/>
+<!-- ANIMATED TYPING ROLE (GitHub-safe alternate host) -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=📊+Aspiring+Data+Scientist;🔍+Data+Analyst+%7C+BI+Developer;🐍+Python+%7C+SQL+%7C+Power+BI+Enthusiast;📈+Turning+Raw+Data+into+Real+Insights" alt="Typing SVG" />
 
 </div>
 
@@ -58,7 +52,7 @@ I'm a **fresher Data Science enthusiast** from Bengaluru, India 🇮🇳, passio
 ![KPI Analysis](https://img.shields.io/badge/KPI%20Analysis-45B7D1?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL%20Basics-96CEB4?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Data Modelling](https://img.shields.io/badge/Data%20Modelling-FFEAA7?style=for-the-badge&logo=databricks&logoColor=black)
-![Pivot Tables](https://img.shields.io/badge/Pivot%20Tables-DDA0DD?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Pivot Tables](https://img.shields.io/badge/Pivot%20Tables-DDA0DD?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ---
 
@@ -68,9 +62,8 @@ I'm a **fresher Data Science enthusiast** from Bengaluru, India 🇮🇳, passio
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anil-kumar-g-r)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anil-962)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Anil-962)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Anil-962)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anil_kumar_gr)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@AnilkumarGR-k6n)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itz_me_ani_anil)
 
 </div>
 
@@ -81,6 +74,7 @@ I'm a **fresher Data Science enthusiast** from Bengaluru, India 🇮🇳, passio
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Anil-962&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
+&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anil-962&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages"/>
 
 </div>
@@ -121,8 +115,6 @@ I'm a **fresher Data Science enthusiast** from Bengaluru, India 🇮🇳, passio
 
 I'm always open to **collaborations**, **internships**, and **data projects**.  
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/anil-kumar-g-r) or drop a ⭐ on a project you like!
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> — say <b>hi!</b> 👋</em>
 
 ---
 
