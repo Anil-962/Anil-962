@@ -71,11 +71,6 @@ I'm a **fresher Data Science enthusiast** from Bengaluru, India 🇮🇳, passio
 
 ## 📈 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Anil-962&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anil-962&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages"/>
 
 </div>
 
