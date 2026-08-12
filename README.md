@@ -6,7 +6,7 @@
 <!-- ANIMATED HEADER WITH WAVE GREETING -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=👋+Hey+there!+Welcome+to+my+profile!" alt="Wave greeting" />
 
-<h1>👋 I'm Anil Kumar G R</h1>
+<h1>👋 I'm Anil</h1>
 
 <!-- ANIMATED TYPING - ROLE AND TAGLINE -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=📊+Data+Science+%7C+Data+Analytics;🔍+Turning+Data+Into+Insights;💡+Aspiring+Data+Scientist" alt="Typing animation" />
@@ -71,16 +71,6 @@ I'm a **passionate Data Science fresher** 🚀 from Bengaluru, India 🇮🇳, d
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anil-962&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-</div>
-
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
@@ -91,25 +81,6 @@ I'm a **passionate Data Science fresher** 🚀 from Bengaluru, India 🇮🇳, d
 
 ---
 
-## 📈 Top Languages
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anil-962&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Anil-962&theme=onedark&no-frame=true&no-bg=false&margin-w=6&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 ## 📊 Contribution Activity
 
 <div align="center">
