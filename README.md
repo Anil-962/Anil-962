@@ -1,8 +1,4 @@
 <div align="center">
-
-<!-- VISITOR COUNTER -->
-![Profile Views](https://komarev.com/ghpvc/?username=Anil-962&label=Profile%20Views&color=0e75b6&style=flat-square)
-
 <!-- ANIMATED HEADER WITH WAVE GREETING -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=👋+Hey+there!+Welcome+to+my+profile!" alt="Wave greeting" />
 
